@@ -7,8 +7,16 @@ public class hellosasmita {
 System.out.println("sasmita");
 System.out.println("hello");
 	}
+	public static void display() {
+		System.out.println("how r u");
+	}
 //new method
 	public static void show(){
 		System.out.println("good morning");
 	}
+
+
 }
+	
+
+
