@@ -7,5 +7,9 @@ public class hellosasmita {
 System.out.println("sasmita");
 System.out.println("hello");
 	}
-
+public static void display() {
+	System.out.println("how r u");
 }
+	}
+
+
