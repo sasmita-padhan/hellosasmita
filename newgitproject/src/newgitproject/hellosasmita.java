@@ -7,5 +7,8 @@ public class hellosasmita {
 System.out.println("sasmita");
 System.out.println("hello");
 	}
-
+//new method
+	public static void show(){
+		System.out.println("good morning");
+	}
 }
