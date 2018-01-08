@@ -14,7 +14,10 @@ System.out.println("hello");
 	public static void show(){
 		System.out.println("good morning");
 	}
-
+//new method
+	public static void wish(){
+		System.out.println("good luck 2 all");
+	}
 
 }
 	
